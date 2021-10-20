@@ -16,5 +16,8 @@
     "http-server": "^13.0.2",
     "parcel": "^2.0.0-rc.0",
     "sass": "^1.40.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
   }
 }
